@@ -1186,9 +1186,10 @@ for i in range(len(s)):
     a = min(s)
     nl.append(a)
     s.remove(a)
-print(nl)
 
+print nl
 
+print(evev and odd 
 
 
 print("-----------------with out print using the return using ------------")
@@ -1234,19 +1235,19 @@ x=eval(input("Enter the Input:"))
 sep_items(x)
 
 
-# property                Recursion           Iteration
+property                Recursion           Iteration
 
-# Defination      Function calls itself   A set of instractions
+Defination      Function calls itself   A set of instractions
 
-# Apllications    For functions           For loops
+Apllications    For functions           For loops
 
-# Code size       small code size         Large Code size
+Code size       small code size         Large Code size
 
-# Time            Very high time          Low time Complexicity
+Time            Very high time          Low time Complexicity
 
-# Space           More space              Less space
+Space           More space              Less space
 
-# meomory         more meomory            less meomory
+meomory         more meomory            less meomory
 
 
 
@@ -1256,12 +1257,12 @@ def countdown(n):
 
     if n <=0:
 
-        return 'Blastoff'
+        print ('Blastoff')
 
     else:
-        return n
-        countdown(n-1)
+        print n
 
+        countdown(n-1)
 countdown(3)
 
 
@@ -1302,10 +1303,15 @@ for num in test:
 max_count = max(count_dict.values())
 
 #we are finding max element from repeated element from list
-test = [1, 2, 3, 9, 2, 7, 3, 5, 9, 9, 9]
-
-max_count = max(test.count(x) for x in test)
-
+t = [1, 2, 3, 9, 2, 7, 3, 5, 9, 9, 9]
+b = 0
+n = t[0]
+for i in t:
+    a = t.count(i)
+    if(a>b):
+        b = a
+        n = i
+print(n)
 
 #How to print the Pyrimd 
 
@@ -1374,33 +1380,33 @@ print(D3)
 
 #Success(2XX):
 
-# 200 OK
-# 201 Created
-# 204 No Content
+200 OK
+201 Created
+204 No Content
 
 #Redirection(3XX):
 
-# 301 Moved Permanently
+301 Moved Permanently
 
-# 302 Found
+302 Found
 
-# 304 Not Modified
+304 Not Modified
 
 
 #Client Error(4XX):
 
-# 400 Bad Request
+400 Bad Request
 
-# 401 Unauthorised request
+401 Unauthorised request
 
-# 403 Forbidden
+403 Forbidden
 
 
 #Server Error(5XX)
 
-# 500 Internal server Error
+500 Internal server Error
 
-# 503 Server Unavaliable
+503 Server Unavaliable
 
 
 #when your passing 3 parameters from the list when passing the argument
@@ -1512,11 +1518,15 @@ def send_post_request(url,payload,file_path):
             file.write(response.text)
         print("Response saved to file:",file_path)
     else:
-        print("Request failed with status code:",response.status_code)
+        print("Request failed with status code:" response.status_code)
 #Example
 url = "https://api.example.com/endpoint"
 payload={"key":"value1","key2":"value2"}
 file_path ='response.json'
+
+
+
+
 
 
 
@@ -1534,6 +1544,7 @@ def send_get_request(url, file_path):
 # Example usage
 url = "https://api.example.com/endpoint"
 file_path = "response.json"
+
 send_get_request(url, file_path)
 
 
@@ -1543,6 +1554,7 @@ send_get_request(url, file_path)
 #for patch the request in this we need the [url,payloadfile_path]
 
 import requests
+
 def send_patch_request(url, payload, file_path):
     response = requests.patch(url, json=payload)
     if response.status_code == 200:
@@ -1551,30 +1563,30 @@ def send_patch_request(url, payload, file_path):
         print("Response saved to file:", file_path)
     else:
         print("Request failed with status code:", response.status_code)
+
 # Example usage
 url = "https://api.example.com/endpoint"
 payload = { "key1": "value1","key2": "value2"}
 file_path = "response.json"
 
-
-
 #x='aaabbbcc' to '3a3b2c'
+
 from itertools import groupby
+
 input1 = 'aaabbbcccddd'
 gr = groupby(input1)
 ls = ''.join([v + str(len(list(k))) for v, k in gr])
 print(ls)
 
-
-
-
 #Convert binary number into integer
+
 binary_string="01010101"
 decimal_number = int(binary_string,2)
 print(decimal_number)
 
 
 #Convert integer into dbinary number
+
 decimal_number = 5
 binary_string = bin(decimal_number)[2:]
 print(binary_string)
@@ -1629,15 +1641,14 @@ b=a
 c = a[:]
 print(b)
 
-# it will check for equality
+it will check for equality
 print(a == b)#True
 
 print(a is b)#True
 
 print(a == b)#True
-# it will check for identity and equality means should have same meomory address
-# after copying it will occupies different meomory address
-
+it will check for identity and equality means should have same meomory address
+after copying it will occupies different meomory address
 print(a is c)#false
 
 #1)== is for value equality. It's used to know if two objects have the same value.

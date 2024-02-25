@@ -296,8 +296,136 @@ ex:
 */1 * * * * date > /dev/pts/0
 --------------------------------------
 
+-------------------------------7 July 2023------------------------------------
+
+The Linux man command
+
+It will give the manual page of commands we used
+
+The Linux ls command
+it will list of all the content inside the files
+
+The Linux cd command
+it is changing the directory from to another
+
+The Linux pwd command
+it will will give present working directory
+
+The Linux mkdir command
+it will create new directory
+
+The Linux rmdir command
+it will remove the directory
+
+The Linux mv command
+it will move the files into the the particular directory
+
+The Linux cp command
+it will copy the data from one file to another file
+
+The Linux open command
+it will open the open the files and directorys
+
+The Linux touch command
+it will create the new file
+
+The Linux find command
+it will the data in the file
+
+The Linux ln command
+
+The Linux gzip command
+The Linux gunzip command
+The Linux tar command
+The Linux alias command
+The Linux cat command
+The Linux less command
+The Linux tail command
+The Linux wc command
+The Linux grep command
+The Linux sort command
+The Linux uniq command
+The Linux diff command
+The Linux echo command
+The Linux chown command
+The Linux chmod command
+The Linux umask command
+The Linux du command
+The Linux df command
+The Linux basename command
+The Linux dirname command
+The Linux ps command
+The Linux top command
+The Linux kill command
+The Linux killall command
+The Linux jobs command
+The Linux bg command
+The Linux fg command
+The Linux type command
+The Linux which command
+The Linux nohup command
+The Linux xargs command
+The Linux vim editor command
+The Linux emacs editor command
+The Linux nano editor command
+The Linux whoami command
+The Linux who command
+The Linux su command
+The Linux sudo command
+The Linux passwd command
+The Linux ping command
+The Linux traceroute command
+The Linux clear command
+The Linux history command
+The Linux export command
+The Linux crontab command
+The Linux uname command
+The Linux env command
+The Linux printenv command
+
 
      
+------------------------------------- 2nd class 8 July 2023 ----------------------------------
+
+Import VI Editior commands
+
+esc i ---> for insert mode
+
+esc :wq! -- save and exit
+
+esc :q!  -- exit without saving
+
+esc yy -- copy
+
+esc p -- paste
+
+esc o -- newline
+
+esc set nu  -- to setup line numbers
+
+esc dd -- to delete the line
+
+esc G  -- end of the page
+
+esc:1 -- frist line of the page
+
+esc $ -- end of the line
+
+esc ^ --start of the line
+esc %s/keyword/replacekeyword/g
+
+/keyword -- for search any keyword
+
+
+------------------------------------- 3rd class 9 July 2023 ----------------------------------
+
+
+
+
+
+
+
+
 
 
 

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4f6104e-8bb0-483d-9b32-1471d31d10f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AWS/AWS (SA)_Complete Course_IT Tech.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AWS/aws devops.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devops/DevOps Complete Course_IT Tech.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/mywebsite/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/mywebsite/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/mywebsite/myapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/mywebsite/myapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/mywebsite/myapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/mywebsite/myapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/mywebsite/myapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/mywebsite/myapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/mywebsite/myapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/mywebsite/myapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/mywebsite/mywebsite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/mywebsite/mywebsite/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/mywebsite/mywebsite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/mywebsite/mywebsite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API/mywebsite/mywebsite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ETL_Automation/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Informatica Power Centre/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linux_Commands/LINUX Admin Complete Course_IT Tech.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linux_Commands/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linux_Commands/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Microservices/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mulesoft-GT/Mulesoft-GT.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Power BI/Power BI Course Content_Main.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL and SQL Interview Questions/daily_learn_Important_concepts.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snowflake/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Lingababu_Interview_Quesitions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Argparse module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Standard Library Modules/csv module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Standard Library Modules/email module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Standard Library Modules/http module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Standard Library Modules/multiprocessing module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Standard Library Modules/pickle module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Standard Library Modules/sqlite3 module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Standard Library Modules/xml module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Third-Party Modules/Django module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Third-Party Modules/Flask module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Third-Party Modules/PyTourch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Third-Party Modules/Tensorflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Third-Party Modules/matplotlib module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Third-Party Modules/numpy module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Third-Party Modules/pandas module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Third-Party Modules/requests module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/datetime module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/itertools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/math module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/random module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/re module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/socket module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/subprocess module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/sys module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/threading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/Pytest_Info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/Fixture_Finalization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/Fixture_Scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/Parallel_Test_Execution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/Skipping_and_Marking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/Skipping_testing_Dynamically.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/pytest_Capture_output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/pytest_Hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/pytest_Selective_test_execution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/pytest_assertions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/pytest_fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/pytest_monkeypatching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/pytest_parameterise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/pytest_parameterise_fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/pytest_skipping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/test_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Python Interview Questions/Python Programs.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Unittest/Skipping_test_based_on_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Unittest/Skipping_tests_based_on_failures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Unittest/TestCase_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Unittest/Unittest_Assertions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Unittest/Unittest_Setup_Teardown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Unittest/Unittest_Skipping_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Unittest/Unittest_Suites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Unittest/Unittest_parameterised_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableau GT/tableau GT.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django with rest API/Django Rest API.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Django_REST_API/Django Rest API.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linux_Commands/Linux_commands.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Linux_Commands/Linux_commands.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pyspark/Py Spark.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pyspark/Py Spark.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Os module.py" beforeDir="false" afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Os module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python and Python_Interview_Questions/Python_document (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Python_advanced_documents.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python and Python_Interview_Questions/Python_interview_questions.py" beforeDir="false" afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/Python_interview_questions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python and Python_Interview_Questions/python_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/python and Python_Interview_Questions/python_class.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Programming" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2YKvTIFKLi7ved9T3zMbKPOU1TN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Programming&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/OneDrive/Desktop/Programming&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/ASUS/Desktop/Programming/python and Python_Interview_Questions/Pytest/automation/pytest_Temporary_Directory_Fixture.py&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Desktop\Programming\python and Python_Interview_Questions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Desktop\Programming\python and Python_Interview_Questions\Python Interview Questions" />
+      <recent name="C:\Users\ASUS\Desktop\Programming\tableau GT" />
+      <recent name="C:\Users\ASUS\Desktop\Programming\Devops" />
+      <recent name="C:\Users\ASUS\Desktop\Programming\Linux_Commands" />
+      <recent name="C:\Users\ASUS\Desktop\Programming\AWS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_square.test_capital_case">
+    <configuration name="Os module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python and Python_Interview_Questions/Modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python and Python_Interview_Questions/Modules/Os module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_square.test_square" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Programming" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_square.test_square&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_square.testsquare" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Programming" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_square.testsquare&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_square.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Programming" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation/test_square.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_square.test_capital_case" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Programming" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python and Python_Interview_Questions/Pytest/automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_square.test_capital_case&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test_square" />
+      <item itemvalue="Python.Os module" />
+      <item itemvalue="Python tests.Python tests for test_square.test_square" />
+      <item itemvalue="Python tests.Python tests for test_square.testsquare" />
+      <item itemvalue="Python tests.Python tests in test_square.py" />
+      <item itemvalue="Python tests.pytest for test_square.test_capital_case" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_square.test_capital_case" />
+        <item itemvalue="Python tests.Python tests in test_square.py" />
+        <item itemvalue="Python.Os module" />
+        <item itemvalue="Python tests.Python tests for test_square.testsquare" />
+        <item itemvalue="Python tests.Python tests for test_square.test_square" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4f6104e-8bb0-483d-9b32-1471d31d10f6" name="Changes" comment="" />
+      <created>1700287093882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700287093882</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

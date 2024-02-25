@@ -1,4 +1,4 @@
-# PySpark – Create an empty DataFrameprint("#Create empty RDD Using Pyspark")
+ # PySpark – Create an empty DataFrameprint("#Create empty RDD Using Pyspark")
 from pyspark.sql import SparkSession
 spark = SparkSession.builder.appName('SparkByExamples.com').getOrCreate()
 emptyRDD = spark.sparkContext.emptyRDD()
